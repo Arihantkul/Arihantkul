@@ -23,27 +23,20 @@ I'm Arihant! I'm an enthusiastic student, looking to solve **real-world problems
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
+* Developing a theory on cosmological physics regarding creation of universe and developing mathematical model for same.
+* Open Source contributions(Owasp)
+* Data Analytics in Python
 * 🔜
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/JoykishanSharma">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+    <img width="500" height="auto" align="right" alt="Arihant's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Arihantkul&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Arihant's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihantkul&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
@@ -86,7 +79,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 <!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Arihantkul ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -101,6 +94,6 @@ Here are some ideas to get you started:
 -->
 
 ----
-Credit: [JoykishanSharma](https://github.com/JoykishanSharma)
+Credit: [ArihantKulshrestha](https://github.com/Arihantkul)
 
-Last Edited on: 23/09/2020
+Last Edited on: 08/04/2026
